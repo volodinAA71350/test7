@@ -1,0 +1,11 @@
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\x86\Release\WindowsFormsApp9.exe.config
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\x86\Release\WindowsFormsApp9.exe
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\x86\Release\WindowsFormsApp9.pdb
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\x86\Release\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\x86\Release\WindowsFormsApp9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\x86\Release\WindowsFormsApp9.Form1.resources
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\x86\Release\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\x86\Release\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\x86\Release\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\x86\Release\WindowsFormsApp9.exe
+C:\Users\Ян\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\x86\Release\WindowsFormsApp9.pdb
